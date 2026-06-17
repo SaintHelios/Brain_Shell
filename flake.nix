@@ -35,7 +35,6 @@
           
           # Audio
           pipewire
-          pipewire-pulse
           wireplumber
           playerctl
           mpv-mpris
