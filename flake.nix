@@ -73,7 +73,6 @@
           cliphist
 
           # Power & hardware management
-          envycontrol
           auto-cpufreq
 
           # Hyprland ecosystem
