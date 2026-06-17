@@ -37,13 +37,11 @@
           pipewire
           wireplumber
           playerctl
-          mpv-mpris
           mpd-mpris
 
           # Network / Bluetooth
           networkmanager
           bluez
-          bluez-utils
 
           # Display / input utilities
           brightnessctl
@@ -57,7 +55,6 @@
           libnotify
           polkit
           lm_sensors
-          rfkill
 
           # Media & visualiser
           cava
