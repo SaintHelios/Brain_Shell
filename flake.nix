@@ -31,8 +31,8 @@
           qt6.qtwayland
           qt6.qtsvg
           qt6.qt5compat
-          qt6ct
-
+	  qt6Packages.qt6c
+          
           # Audio
           pipewire
           pipewire-pulse
